@@ -1,0 +1,6 @@
+btdht (0.3.1-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- David Steele <daves@localhost>  Mon, 27 Nov 2017 11:02:48 -0500
